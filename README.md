@@ -1,4 +1,7 @@
 # project-boggle
+
+  This project was completed in Fall 2018. 
+  
   I created a version of the Game Boggle. Open the Game file to begin. 
 
 - Provide an overview of each of the classes in your code, and what their
